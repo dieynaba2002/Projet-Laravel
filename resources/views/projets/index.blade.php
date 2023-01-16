@@ -13,7 +13,7 @@
                     <h2>Liste Des Projets</h2>
                 </div>
                 <div class="pull-right mb-2">
-                    <a class="btn btn-success" href="{{ route('phases.create') }}"> Creer un Projet</a>
+                    <a class="btn btn-success" href="{{ route('projets.create') }}"> Creer un Projet</a>
                 </div>
             </div>
         </div>
